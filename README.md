@@ -81,7 +81,7 @@ mu= 15.079460902953686     sigma= 6.026937751566297
    
 ### PUNTO 2
 
-En este punto se busca la funcion de desidad conjunta la cual al asumir independicia entre X y Y  considerandos nuestros datos discretos y que su comportamiento es gaussiano tenemos que \
+En este punto se busca la funcion de desidad conjunta la cual al asumir independicia entre X y Y  considerandos nuestros datos discretos y que su comportamiento es gaussiano tenemos que 
 
 ![Punto_2](Punto_2.PNG)
 
@@ -130,7 +130,7 @@ print('EL valor del coef de correlacion (Pearson):',copear)
 
 El valor de la correlacion: 149.54281\
 El valor de la covarianza: 0.06669156989979691\
-EL valor del coef de correlacion (Pearson): 0.003353772668134292\
+EL valor del coef de correlacion (Pearson): 0.003353772668134292
 
 ### PUNTO 4
 Finalmemte se grafican las funciones maginales de X y Y ajustadas y sin ruido en 2D, ademas se grafica en 3D la funcion de densidad conjunta del punto 2, en ambos casos utlizando la parametros de ajuste para cada funcion previamente encontrados 
@@ -170,4 +170,4 @@ Las graficas en 2D\
 
 
 La garfica de la funcion conjunta en 3D\
-![F_conjunta](F_conjunta.png) \
+![F_conjunta](F_conjunta.png) 
